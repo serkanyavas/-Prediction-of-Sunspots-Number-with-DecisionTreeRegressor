@@ -1,8 +1,5 @@
 # Predict-Number-of-Sunspots-with-DecisionTreeRegressor
-Made on Kaggle 
-![kagglelogo](/img/kaggle-logo-transparent-300.png)
-
-This project made for kaggle challenge and contains:
+This project contains:
 * Data analysis,
 * Data visualization,
 * Missing value detection,
