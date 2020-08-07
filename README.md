@@ -7,7 +7,8 @@ This project contains:
 * Model Trials,
 * Regression with DecisionTreeRegressor.
 
-Also you can click the link for Kaggle Kernel:https://www.kaggle.com/serkanyava/predict-number-of-sunspots-w-decisiontreeregressor
+Also you can click the link for Kaggle Kernel:   
+https://www.kaggle.com/serkanyava/predict-number-of-sunspots-w-decisiontreeregressor
 
 Libraries that I used:
 1. sklearn
