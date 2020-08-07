@@ -1,4 +1,4 @@
-# Predict-Number-of-Sunspots-with-DecisionTreeRegressor
+# Prediction of Sunspots Number with Decision Tree Regressor
 This project contains:
 * Data analysis,
 * Data visualization,
