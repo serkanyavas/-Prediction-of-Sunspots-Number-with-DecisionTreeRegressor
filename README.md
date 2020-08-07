@@ -1,4 +1,4 @@
-# Predict-Number-of-Sunspots-w-DecisionTreeRegressor
+# Predict-Number-of-Sunspots-with-DecisionTreeRegressor
 Made on Kaggle 
 ![kagglelogo](/img/kaggle-logo-transparent-300.png)
 
