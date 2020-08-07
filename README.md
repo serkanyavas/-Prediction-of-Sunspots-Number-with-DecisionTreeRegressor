@@ -1,4 +1,6 @@
 # Prediction of Sunspots Number with Decision Tree Regressor
+[Sunspot's meaning](https://en.wikipedia.org/wiki/Sunspot)
+
 This project contains:
 * Data analysis,
 * Data visualization,
