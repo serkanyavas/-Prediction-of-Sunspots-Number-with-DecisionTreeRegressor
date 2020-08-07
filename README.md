@@ -8,7 +8,7 @@ This project contains:
 * Data visualization,
 * Missing value detection,
 * Feature Engineering,
-* Model Trials,
+* Model Trials(Neural Network and DecisionTreeRegressor),
 * Regression with DecisionTreeRegressor.
 
 Also you can click the link for Kaggle Kernel:   
